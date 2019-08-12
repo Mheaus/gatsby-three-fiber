@@ -6,6 +6,7 @@
   "author": "Mathieu Audebert <mathieu.adbrt@gmail.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.6",
+    "cannon": "^0.6.2",
     "gatsby": "^2.13.55",
     "gatsby-image": "^2.2.8",
     "gatsby-plugin-manifest": "^2.2.5",
