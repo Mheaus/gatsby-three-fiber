@@ -24,7 +24,7 @@
     "react-helmet": "^5.2.1",
     "react-three-fiber": "^2.2.15",
     "styled-components": "^4.3.2",
-    "three": "^0.107.0"
+    "three": "^0.137.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.2",
